@@ -174,8 +174,8 @@ html {
 
 /* Footer */
 footer {
-    background-color: #202124;
-    color: #ffffff;
+    background-color: lightgray;
+    color: wheat;
     text-align: center;
     padding: 2rem;
     font-size: 0.9rem;
